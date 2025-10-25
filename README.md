@@ -102,6 +102,36 @@ smilechain/
 ├── shared/                    # Shared TypeScript types
 └── server/                    # Vite dev server only (no backend logic)
 ```
+---
+## Wire Frame 
+
+
+**LANDING PAGE:-**
+
+<img width="463" height="243" alt="Screenshot 2025-10-26 at 2 44 10 AM" src="https://github.com/user-attachments/assets/b28dd92d-169e-4d93-b92f-4b82ea2f7883" />
+
+
+**Selfie & Smile Score Page:-**
+
+<img width="482" height="297" alt="Screenshot 2025-10-26 at 2 44 25 AM" src="https://github.com/user-attachments/assets/61ecf161-8fa1-4fd0-8226-9328d147f263" />
+
+
+**Leaderboard Page**
+
+<img width="569" height="266" alt="Screenshot 2025-10-26 at 2 44 40 AM" src="https://github.com/user-attachments/assets/61b73da5-23f3-4b4a-ae9e-4d0ccc01e4b1" />
+
+**Wallet / User Dashboard**
+
+
+<img width="492" height="301" alt="Screenshot 2025-10-26 at 2 44 48 AM" src="https://github.com/user-attachments/assets/24225c5a-1c8e-4a76-b409-3fa22a7eb70e" />
+
+
+**Smart Contract / Backend Flow**
+
+<img width="507" height="198" alt="Screenshot 2025-10-26 at 2 44 58 AM" src="https://github.com/user-attachments/assets/b7899426-3893-4587-9bc9-5b1831c7ed90" />
+
+
+
 
 ---
 ## Flow Chart
