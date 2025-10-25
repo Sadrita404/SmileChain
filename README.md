@@ -103,6 +103,15 @@ smilechain/
 └── server/                    # Vite dev server only (no backend logic)
 ```
 
+---
+## Flow Chart
+<img width="612" height="768" alt="flow chart" src="https://github.com/user-attachments/assets/ad9bebd9-4e95-47b7-834c-9c20409e28e9" />
+
+
+
+
+
+
 ## 🎨 Design Philosophy
 
 SmileChain combines **playful gamification** with **professional crypto UX**:
